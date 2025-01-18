@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1737181408340
+current_stage: None
+description: ''
+last_updated_timestamp: 1737181408340
+name: loan-default-model
+run_id: 48db62f5bebf469baa6bfe54c90fc315
+run_link: ''
+source: mlflow-artifacts:/398271914817834445/48db62f5bebf469baa6bfe54c90fc315/artifacts/logistic-regression-model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/398271914817834445/48db62f5bebf469baa6bfe54c90fc315/artifacts/logistic-regression-model
+user_id: null
+version: 4

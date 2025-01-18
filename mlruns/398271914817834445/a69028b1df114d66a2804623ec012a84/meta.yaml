@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/398271914817834445/a69028b1df114d66a2804623ec012a84/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '398271914817834445'
+lifecycle_stage: active
+run_id: a69028b1df114d66a2804623ec012a84
+run_name: judicious-stork-530
+run_uuid: a69028b1df114d66a2804623ec012a84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737179563924
+status: 1
+tags: []
+user_id: root

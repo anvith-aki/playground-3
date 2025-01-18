@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1737180381336
+current_stage: None
+description: ''
+last_updated_timestamp: 1737180381336
+name: loan-default-model
+run_id: a69028b1df114d66a2804623ec012a84
+run_link: ''
+source: mlflow-artifacts:/398271914817834445/a69028b1df114d66a2804623ec012a84/artifacts/decision-tree-model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/398271914817834445/a69028b1df114d66a2804623ec012a84/artifacts/decision-tree-model
+user_id: null
+version: 3
