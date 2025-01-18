@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = ssh://anvit@npci-sandbox.talentsprint.com:22/home/anvit/playgound-3
